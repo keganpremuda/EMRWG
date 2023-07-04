@@ -7,7 +7,7 @@ The goal of this project is to obtain the electromagnetic properties of the rect
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Design and Simulation Software Used</h2>
 
 - <b>Keysight EMPro 2023</b> 
 
