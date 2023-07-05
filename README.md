@@ -49,7 +49,7 @@ The goal of this project is to obtain the electromagnetic properties of the rect
 <br />
 <p align="center">
 <b>Propagation Constant and Wave Impedance Simulation Results:</b><br><br/>
-  <img src="https://i.imgur.com/kwV4pTm.png" height="80%" width="80%" alt="Results Table"/></p>
+  <img src="https://i.imgur.com/XVm4TZH.png" height="80%" width="80%" alt="Results Table"/></p>
 <br />
 <br />
 <br />
