@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 This project analyzes and creates a standard air-filled copper WR-75 19.05mm x 9.525mm x 200mm rectangular waveguide for microwave applications. A theoretical TE10 wave (dominant mode) at 13.5GHz was used to obtain the cutoff frequency, wave impedance, phase constant, and attenuation constant due to the loss in the guide walls.
-The goal of this project is to obtain the electromagnetic properties of the rectangular waveguide and to visualize the field distributions inside the guide as well as the surface current density on its walls.
+The goal of this project is to obtain the electromagnetic properties of the rectangular waveguide and to visualize the field distributions inside the guide, as well as the surface current density on its walls.
 <br />
 
 
@@ -32,7 +32,7 @@ The goal of this project is to obtain the electromagnetic properties of the rect
 <b>Results of Finite Element Method Simulation:<br></b><br/>
   <img src="https://i.imgur.com/0PDEZef.png" height="80%" width="80%" alt="Electric Field Results"/></p>
   <p align="left">
-  The plot of the electric field plot shows where the maximum and minimum amplitudes of the field are with respect to the rectangular waveguide, and shows how the wave will propagate through the guide.</p><br><br><br><br>
+  The plot of the electric field plot shows where the maximum and minimum amplitudes of the field are with respect to the rectangular waveguide, and shows how the waves will propagate through the guide.</p><br><br><br><br>
   <p align="center">
   <img src="https://i.imgur.com/3td20lB.png" height="80%" width="80%" alt="Surface Current Density Results"/></p>
   <p align="left">
